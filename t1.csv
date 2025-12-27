@@ -1,0 +1,14 @@
+Type,Plot No,Name,Points,Area (m²),Area (ft²),Price (?),Status,Facing,Type,Dimensions,Premium,Views,Tags,Amenities,Facilities,Custom Center,Trending,Color,Font Size,Font Weight,Rotation
+Plot,1,,"[{x:245,y:1292},{x:390,y:1292},{x:390,y:1359},{x:245,y:1359}]",1200,12916,4500000,sold,East,Industrial,40ft x 30ft,No,189,sold,Underground Utilities,Loading Bay,,No,,,,
+Plot,2,,"[{x:245,y:1359},{x:390,y:1359},{x:390,y:1425},{x:245,y:1425}]",1180,10620,4200000,sold,East,Warehouse,38ft x 31ft,No,189,sold,Underground Utilities,Loading Bay,,No,,,,
+Plot,3,,"[{x:245,y:1425},{x:390,y:1425},{x:390,y:1494},{x:245,y:1494}]",1150,12375,4000000,sold,West,Industrial,37ft x 31ft,No,189,sold,Underground Utilities,Loading Bay,,No,,,,
+Plot,4,,"[{x:245,y:1494},{x:390,y:1494},{x:390,y:1561},{x:245,y:1561}]",1170,10530,4350000,available,Corner,Industrial,39ft x 30ft,Yes,256,"premium, highway-facing, high-visibility","Highway Frontage, Wide Road Access, High Visibility","Highway Entry, Main Gate",,Yes,,,,
+Plot,5,,"[{x:245,y:1561},{x:390,y:1561},{x:390,y:1628},{x:245,y:1628}]",1190,12810,4400000,sold,North,Industrial,39ft x 30.5ft,No,189,sold,Underground Utilities,Loading Bay,,No,,,,
+Plot,6,,"[{x:245,y:1628},{x:390,y:1628},{x:390,y:1696},{x:245,y:1696}]",1160,12490,4100000,hold,South,Warehouse,38ft x 30.5ft,No,189,hold,Underground Utilities,Loading Bay,,No,,,,
+Plot,8,,"[{x:247,y:764},{x:249,y:759},{x:252,y:753},{x:256,y:750},{x:259,y:748},{x:262,y:747},{x:266,y:747},{x:390,y:747},{x:390,y:818},{x:247,y:818}]",1100,11835,4000000,available,East,Industrial,37ft x 30ft,No,189,available,Wide Road Access,Highway Entry,"{x:318,y:782}",No,,,,
+Plot,9,,"[{x:700,y:495},{x:633,y:582},{x:777,y:593},{x:854,y:503}]",1050,11300,3900000,available,West,Industrial,36ft x 29ft,Yes,189,premium,High Visibility,Main Gate,,No,,,,
+Garden,G1,COMMON PLOT 1,"[{x:1248,y:748},{x:1691,y:746},{x:1277,y:1382},{x:1248,y:1408}]",0,0,0,garden,N/A,Garden,N/A,No,,,,,,No,,,,
+DashedLine,,HIGHWAY,M 18 429 L 417 378 L 1961 494,,,,,,,,,,,,,,,,,,
+LayoutBorder,,MAIN BOUNDARY,M 150 475 L 427 424 L 1837 525 L 1277 1383 L 1248 1407 L 1144 1497 L 238 2280 L 150 2221 Z,,,,,,,,,,,,,,,,,,
+Text,,9.00 MT WIDE ROAD,"[{x:838,y:716}]",,,,,,,,,,,,,,,#ffffff,20,bold,0
+Text,,9.00 MT WIDE ROAD,"[{x:569,y:1049}]",,,,,,,,,,,,,,,#ffffff,20,bold,90

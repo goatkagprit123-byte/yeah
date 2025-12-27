@@ -1,0 +1,22 @@
+Category,Dark,Light,Legend,Width,Default,Other
+Available,"rgba(16, 185, 129, 0.4)","rgba(16, 185, 129, 0.5)",Green circle (#10b981),,,
+Sold,"rgba(239, 68, 68, 0.3)","rgba(239, 68, 68, 0.4)",Red circle (#ef4444),,,
+Hold,"rgba(250, 204, 21, 0.4) (Yellow #FACC15)","rgba(250, 204, 21, 0.5) (Yellow #FACC15)",Yellow circle (#FACC15),,,
+Garden,"rgba(34, 197, 94, 0.5)","rgba(34, 197, 94, 0.6)",Green circle (#22c55a),,,
+Simple Mode,"rgba(210, 180, 140, 0.3)","rgba(210, 180, 140, 0.5)",,,,
+Premium Star,#fbbf24,#fbbf24,Gold star (#fbbf24),,,
+Layout Border Fill,#505050,#d1d5db,,,,
+Layout Border Stroke,#000000,#6b7280,,4,,
+Highway Dashed Line Stroke,#ffffff,#374151,,3,,
+Normal Plot Borders Stroke Width,,,,2,,
+Hovered Plot Borders Stroke Width,,,,3,,
+HighlightedPlot Borders Stroke Width,,,,4,,
+Background,#1e293b,#f3f4f6,,,,
+All Border for all plots and Gardens,#000000,#000000,,,,
+Layout Rotation,,,,,45,
+North Rotation,,,,,0,
+Zoom,,,,,0.6,
+Pan,,,,,"{x: 100, y: 100}",
+View box,,,,,,"0,0,2000,2500"
+Highway Dashed Line Dasharray,,,,,,"15,10"
+Price Interface,,,,,,Lakh
